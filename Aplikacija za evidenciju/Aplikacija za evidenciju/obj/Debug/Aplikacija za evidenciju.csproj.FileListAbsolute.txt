@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\bin\Debug\Aplikacija za evidenciju.exe.config
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\bin\Debug\Aplikacija za evidenciju.exe
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\bin\Debug\Aplikacija za evidenciju.pdb
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija za evidenciju.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija_za_evidenciju.Form1.resources
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija_za_evidenciju.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija za evidenciju.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija za evidenciju.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija za evidenciju.exe
+C:\Users\Ucenik\source\repos\Aplikacija za evidenciju\Aplikacija za evidenciju\obj\Debug\Aplikacija za evidenciju.pdb
